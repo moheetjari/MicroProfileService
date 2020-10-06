@@ -1,0 +1,7 @@
+com/mycompany/myfirstmicroserviceapp/config/CrossOriginResourceSharingFilter.class
+com/mycompany/myfirstmicroserviceapp/service/ExampleService.class
+servlet/TestServlet.class
+com/mycompany/myfirstmicroserviceapp/config/BootStrap.class
+com/mycompany/myfirstmicroserviceapp/config/Producers.class
+client/ExampleClient.class
+com/mycompany/myfirstmicroserviceapp/service/HealthCheckService.class
